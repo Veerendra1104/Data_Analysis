@@ -1,6 +1,6 @@
-<h2> Diwali Sales Data Analysis </h2>
+<h2 style="color:red"> Diwali Sales Data Analysis </h2>
 
-<h4> Project Overview </h4>
+<h3> Project Overview </h3>
 <p>
 This project focuses on analyzing Diwali sales data to uncover insights into customer buying patterns, popular product categories, and regional sales performance. The analysis is conducted using two methods:
 
@@ -16,7 +16,7 @@ Sales trends during Diwali season.
 Popular products and product categories.
 Customer demographics and regional distribution of sales.
 Revenue generated per region and per category.
-Method 1: Data Analysis Using Python
+<h2 style="color:Green"> Method 1: Data Analysis Using Python </h2>
 In this approach, Python libraries like Pandas, NumPy, and Matplotlib/Seaborn are used for data cleaning, processing, and analysis.
 
 Steps
@@ -41,7 +41,7 @@ Majority of the customer base is aged between [Age Range].
 
 </br>
 <p>
-Method 2: Data Visualization Using Power BI
+<h2 style="color:Green"> Method 2: Data Visualization Using Power BI </h2>
 In this approach, Power BI is used to create an interactive dashboard that displays key sales metrics and trends.
 
 Power BI Steps
